@@ -1,0 +1,6 @@
+﻿  Bank System.cpp
+C:\Users\abdelrahman.elsaeedy\source\repos\Bank System\Bank System.cpp(35,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdelrahman.elsaeedy\source\repos\Bank System\Bank System.cpp(493,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\abdelrahman.elsaeedy\source\repos\Bank System\Bank System.cpp(453,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\abdelrahman.elsaeedy\source\repos\Bank System\Bank System.cpp(524,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  Bank System.vcxproj -> C:\Users\abdelrahman.elsaeedy\source\repos\Bank System\x64\Debug\Bank System.exe
